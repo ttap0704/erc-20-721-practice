@@ -1,0 +1,25 @@
+{
+  "name": "erc20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttap0704/erc-20-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttap0704/erc-20-practice/issues"
+  },
+  "homepage": "https://github.com/ttap0704/erc-20-practice#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2"
+  }
+}
